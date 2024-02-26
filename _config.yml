@@ -21,7 +21,7 @@ repository               : "HaoyuK/HaoyuK.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "haoyu.png"
+  avatar           : "haoyu.jpg"
   name             : "Haoyu Kuang"
   pronouns         : # example: "she/her"  
   bio              : "Master student at Fudan University"
