@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haoyu Kuang"
+title                    : "Haoyu Kuang's Homepage"
 title_separator          : "-"
 name                     : &name "Haoyu Kuang"
 description              : &description "Master student at Fudan University"
