@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Haoyu Kuang's Homepage"
+title: "Haoyu Kuang"
 author_profile: true
 redirect_from: 
   - /about/
