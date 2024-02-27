@@ -14,7 +14,7 @@ I am Haoyu Kuang (旷皓予), a first year master student at Fudan University in
 My interested research topics are mostly around computational social science and graph representation learning, including:
 - Computational Social Science via Large Vision Language Model
 - Agents Simulation powered by Large Language Model
-- Test-Attributed Graphs Pre-training
+- Text-Attributed Graph Pre-training
 
 ### Publication
 
