@@ -18,7 +18,8 @@ My interested research topics are mostly around computational social science and
 
 ### Publication
 
-- [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022). Preprint 2024  
+- [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022). *Preprint 2024*  
   Xinnong Zhang\*, **Haoyu Kuang\***, Xinyi Mou, Hanjia Lyu, Kun Wu, Siming Chen, Jiebo Luo, Xuanjing Huang, Zhongyu Wei.  
   \* indicates equal contributions.
-- [Unleashing the Power of Language Models in Text-Attributed Graph](https://aclanthology.org/2023.findings-emnlp.565/). In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP’23 Findings). **Haoyu Kuang**, Jiarong Xu, Haozhe Zhang, Zuyu Zhao, Qi Zhang, Xuanjing Huang, Zhongyu Wei.
+- [Unleashing the Power of Language Models in Text-Attributed Graph](https://aclanthology.org/2023.findings-emnlp.565/). *In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP’23 Findings)*
+  **Haoyu Kuang**, Jiarong Xu, Haozhe Zhang, Zuyu Zhao, Qi Zhang, Xuanjing Huang, Zhongyu Wei.
