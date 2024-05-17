@@ -22,4 +22,5 @@ My interested research topics are mostly around computational social science and
   Xinnong Zhang\*, **Haoyu Kuang\***, Xinyi Mou, Hanjia Lyu, Kun Wu, Siming Chen, Jiebo Luo, Xuanjing Huang, Zhongyu Wei.  
   \* indicates equal contributions.
 - [Unleashing the Power of Language Models in Text-Attributed Graph](https://aclanthology.org/2023.findings-emnlp.565/). ***Findings of the Association for Computational Linguistics: EMNLP 2023***
+  
   **Haoyu Kuang**, Jiarong Xu, Haozhe Zhang, Zuyu Zhao, Qi Zhang, Xuanjing Huang, Zhongyu Wei.
