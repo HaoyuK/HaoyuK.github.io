@@ -18,6 +18,9 @@ My interested research topics are mostly around computational social science and
 
 ### Publication
 
+- [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022). ***Preprint 2024***  
+  Xiawei Liu\*, Shiyue Yang\*, Xinnong Zhang, **Haoyu Kuang**, Libo Sun, Yihang Yang, Siming Chen, Xuanjing Huang, Zhongyu Wei.
+  \* indicates equal contributions.
 - [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022). ***Findings of the Association for Computational Linguistics: ACL 2024***  
   Xinnong Zhang\*, **Haoyu Kuang\***, Xinyi Mou, Hanjia Lyu, Kun Wu, Siming Chen, Jiebo Luo, Xuanjing Huang, Zhongyu Wei.  
   \* indicates equal contributions.
