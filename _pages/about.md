@@ -18,9 +18,9 @@ My interested research topics are mostly around computational social science and
 
 ### Publication
 \* indicates equal contributions.  
-- [Multi-agent KTO: Reinforcing Strategic Interactions of Large Language Model in Language Game](https://arxiv.org/abs/2501.14225)). ***Preprint 2025***  
+- [Multi-agent KTO: Reinforcing Strategic Interactions of Large Language Model in Language Game](https://arxiv.org/abs/2501.14225). ***Preprint 2025***  
   Rong Ye\*, Yongxin Zhang\*, Yikai Zhang, **Haoyu Kuang**, Zhongyu Wei, Peng Sun.  
-- [AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios](https://arxiv.org/abs/2410.19346)). ***NAACL 2025***  
+- [AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios](https://arxiv.org/abs/2410.19346). ***NAACL 2025***  
   Xinyi Mou\*, Jingcong Liang\*, Jiayu Lin\*, Xinnong Zhang\*, Xiawei Liu, Shiyue Yang, Rong Ye, Lei Chen, **Haoyu Kuang**, Xuanjing Huang, Zhongyu Wei.  
 - [AI-Press: A Multi-Agent News Generating and Feedback Simulation System Powered by Large Language Models](https://aclanthology.org/2025.coling-demos.8/). ***COLING 2025 Demo***  
   Xiawei Liu\*, Shiyue Yang\*, Xinnong Zhang, **Haoyu Kuang**, Libo Sun, Yihang Yang, Siming Chen, Xuanjing Huang, Zhongyu Wei.    
